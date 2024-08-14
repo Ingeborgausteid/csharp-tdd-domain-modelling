@@ -4,12 +4,12 @@ using tdd_domain_modelling.CSharp.Main;
 namespace tdd_domain_modelling.CSharp.Test
 {
     [TestFixture]
-    public class CohortManagerTest
+    public class ShoppingManagerTest
     {
         [Test]
         public void FirstTest()
         {
-            CohortManager core = new CohortManager();
+            ShoppingManager core = new ShoppingManager();
         }
     }
 }
